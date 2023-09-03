@@ -15,7 +15,7 @@
   <br>
   💻 I love Writing code, creating new Projects and learning anything about them 😊
   <br>
-  📚 I’m currently focusing on creating WebSites
+  📚 I’m currently focusing on creating WebSites and lerning how to make Phone apps
   <br>
   📫 How to reach me 👇
 </p>
